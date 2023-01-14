@@ -1,0 +1,22 @@
+{
+  "name": "discord-raid-bot",
+  "version": "1.0.0",
+  "description": "Bot made for fun to raid Discord Servers (EDUCATIONAL PURPOSE ONLY)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonBenitez/Discord-Raid-Bot.git"
+  },
+  "author": "K3pler09",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandonBenitez/Discord-Raid-Bot/issues"
+  },
+  "homepage": "https://github.com/BrandonBenitez/Discord-Raid-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}

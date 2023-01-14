@@ -1,0 +1,9 @@
+{
+    "Token":"Your Token Bot",
+    "Prefix":"Prefix for bot",
+    "MsgRaid":"message for raid",
+    "ChannelName":"name to create channel",
+    "RoleName":"name to create role",
+    "RoleColor":"color for role",
+    "RoleReason":"reason for a create role"
+}
